@@ -10,6 +10,7 @@ Dataset consists of weather information from:
 
 Start by using the following command to run through py module:
 - python -m projects.pj01.weather [FILE] [COLUMN] [OPERATION]
+
 Available operations are:
 - list, min, max, avg, chart
 
